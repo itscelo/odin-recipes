@@ -1,38 +1,10 @@
-.workpls,
-.honeye
- {
-    color: pink;
-}
-.link{
-    color:brown;
+*{
+    background-color: #dad7cd;
 }
 
-ul{
-    color:green;
-    text-align: center;
-    list-style-position: inside;
-}
 
-ol{
-    color:purple;
-    text-align:left;
-    list-style-position: inside;
-}
-
-h3{
+.website-Title{
     text-align: center;
 }
 
-p{
-    text-align: center;
-}
 
-h1{
-    text-align: center;
-}
-
-.honeypic{
-    display: block;
-    margin:auto;
-    width: 50%;
-}
