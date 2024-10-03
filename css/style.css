@@ -27,9 +27,8 @@
 }
 
 .MainPage{
-    margin:auto;
     padding:30px;
-    margin-top:100px;
+    margin: 100px auto auto;
     width: 300px;
     background-color: #d6ccc2;
     text-align: center;
