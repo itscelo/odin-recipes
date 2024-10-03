@@ -1,10 +1,37 @@
 *{
-    background-color: #dad7cd;
+    background-color: #edede9;
 }
 
 
-.website-Title{
+.GarlicBox{
+    padding:30px;
+    margin:auto;
+    width: 300px;
+    text-align: center;
+    background-color:#e3d5ca;
+}
+
+.TurkeyBox{
+    padding:30px;
+    margin:auto;
+    width: 300px;
+    text-align: center;
+    background-color:#e3d5ca;
+}
+.Salmonbox{
+    padding:30px;
+    margin:auto;
+    width: 300px;
+    text-align: center;
+    background-color:#e3d5ca;
+}
+
+.MainPage{
+    margin:auto;
+    padding:30px;
+    margin-top:100px;
+    width: 300px;
+    background-color: #d6ccc2;
     text-align: center;
 }
-
 
